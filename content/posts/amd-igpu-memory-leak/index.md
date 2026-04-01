@@ -1,7 +1,7 @@
 ---
 title: "AMD 核显驱动的内存泄露问题"
 date: 2026-04-01T09:36:50+08:00
-draft: true
+draft: false
 description: "在AI的引导、内存排查工具、以及搜索引擎的帮助下，找到了内存泄露的原因"
 tags: ["Windows", "AMD", "内存泄露", "故障排查", "AI","上下文","STFW"]
 categories: ["Troubleshooting"]
